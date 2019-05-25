@@ -2,7 +2,7 @@
 
 ## About this application
 
-&nbsp;&nbsp;&nbsp;This is a program that is a minimize version of POS of the Grocery store.
+&nbsp;&nbsp;&nbsp;This a program that is a minimize version of POS of the Grocery store.
         
 #### Feature
 
