@@ -15,13 +15,17 @@
 #### Singleton
 - This design pattern use in shopping cart so that cart has create only one time then it clean and reuse for reduce the memory.
 
+![singleton](img/singleton.png)
 
 #### Strategy
 - This design pattern use for the promotion class which have many kind of promotion such as discount or buy 1 get 1.
 
+![strategy](img/strategy.png)
 
 #### ObjectPool
 - This design pattern use for the item list in the store in case if that store have a lot of item so it'll just load from the memory just 1 time when in buying mode for increasing of performance.
+
+![objectPool](img/objectPool.png)
 
 ## How to use
 This program is run on command line so there won't be any gui.
